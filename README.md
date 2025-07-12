@@ -3,6 +3,7 @@
 ## 🚀 Innovation Overview
 
 This cutting-edge PCB traceability system revolutionizes electronics manufacturing by combining **real-time defect detection**, **comprehensive supply chain tracking**, and **cross-factory visibility** into a unified platform. Built with modern web technologies and powered by YOLOv8 AI, this system sets new standards for quality assurance and manufacturing transparency.
+<img width="1233" height="967" alt="Screenshot 2025-07-12 171515" src="https://github.com/user-attachments/assets/3506590a-52b1-43b2-8691-b98b18c9a2ad" />
 
 ## 🌟 Key Innovations
 
@@ -27,24 +28,8 @@ This cutting-edge PCB traceability system revolutionizes electronics manufacturi
 ## 🏭 Multi-Factory Traceability Architecture
 
 ### How It Works Across Factories
-
 ```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Factory A     │    │   Factory B     │    │   Factory C     │
-│   (Mumbai)      │    │   (Pune)        │    │   (Bangalore)   │
-├─────────────────┤    ├─────────────────┤    ├─────────────────┤
-│ • Raw Material  │────│ • SMT Assembly  │────│ • Final Test    │
-│ • QR Generation │    │ • AOI Inspection│    │ • Packaging     │
-│ • Batch Tracking│    │ • Defect Detect │    │ • Shipping      │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-         │                       │                       │
-         └───────────────────────┼───────────────────────┘
-                                 │
-                    ┌─────────────────┐
-                    │  Central Cloud  │
-                    │   Traceability  │
-                    │    Database     │
-                    └─────────────────┘
+<img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/1ebc7097-9fd8-4ddb-a8f3-1c000043878d" />
 ```
 
 ### 🔗 Inter-Factory Communication
@@ -73,6 +58,10 @@ This cutting-edge PCB traceability system revolutionizes electronics manufacturi
 - **Audit Trail Generation**: One-click regulatory reports with complete documentation
 - **Certificate Management**: Automated quality certificates with blockchain verification
 - **Recall Management**: Instant identification of affected PCBs in case of recalls
+<img width="723" height="395" alt="Screenshot 2025-05-30 201710" src="https://github.com/user-attachments/assets/2307406f-759f-4050-a942-723370a4f85c" />
+
+<img width="550" height="297" alt="Screenshot 2025-05-30 201827" src="https://github.com/user-attachments/assets/2c5da51c-18ae-4707-8dd8-436202d9e8a7" />
+
 
 ## 🛠️ Technical Architecture
 
@@ -186,25 +175,8 @@ const generatePCBQR = (pcbData) => {
 - **Audit Logging**: Complete audit trail for all system interactions
 - **Data Anonymization**: PII protection while maintaining traceability
 
-### Regulatory Compliance
-- **ISO 9001 Integration**: Automated quality management system compliance
-- **FDA 21 CFR Part 11**: Electronic records and signatures for medical devices
-- **GDPR Compliance**: Data protection for European manufacturing operations
-- **Industry 4.0 Standards**: Compatible with modern manufacturing protocols
 
-## 🌍 Global Deployment
 
-### Multi-Region Architecture
-- **Edge Computing**: Local processing for reduced latency
-- **Data Sovereignty**: Regional data storage compliance
-- **24/7 Operations**: Follow-the-sun support model
-- **Disaster Recovery**: Automated failover and data backup
-
-### Scalability Features
-- **Horizontal Scaling**: Add new factories without system redesign
-- **Load Balancing**: Distribute traffic across multiple servers
-- **Auto-scaling**: Dynamic resource allocation based on demand
-- **Performance Monitoring**: Real-time system health and optimization
 
 ## 📈 Future Roadmap
 
@@ -220,13 +192,6 @@ const generatePCBQR = (pcbData) => {
 - **Sustainability Tracking**: Carbon footprint and environmental impact
 - **Customer Integration**: Direct customer access to manufacturing data
 
-## 🤝 Contributing
-
-We welcome contributions from the manufacturing and technology communities! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and suggest improvements.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -238,4 +203,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the future of manufacturing transparency and quality assurance**
 
-*For questions, support, or partnerships, please contact us at [traceability@yourcompany.com](mailto:traceability@yourcompany.com)*
+
