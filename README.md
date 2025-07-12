@@ -1,8 +1,11 @@
 # 🔬 Advanced PCB Traceability & Defect Detection System
+![Demo Video](Process.mp4)
 
 ## 🚀 Innovation Overview
 
 This cutting-edge PCB traceability system revolutionizes electronics manufacturing by combining **real-time defect detection**, **comprehensive supply chain tracking**, and **cross-factory visibility** into a unified platform. Built with modern web technologies and powered by YOLOv8 AI, this system sets new standards for quality assurance and manufacturing transparency.
+<img width="1240" height="1085" alt="Screenshot 2025-07-12 171509" src="https://github.com/user-attachments/assets/26d481cc-fef6-4982-9aec-6a2fa39f91ba" />
+
 <img width="1233" height="967" alt="Screenshot 2025-07-12 171515" src="https://github.com/user-attachments/assets/3506590a-52b1-43b2-8691-b98b18c9a2ad" />
 
 ## 🌟 Key Innovations
@@ -28,9 +31,9 @@ This cutting-edge PCB traceability system revolutionizes electronics manufacturi
 ## 🏭 Multi-Factory Traceability Architecture
 
 ### How It Works Across Factories
-```
+
 <img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/1ebc7097-9fd8-4ddb-a8f3-1c000043878d" />
-```
+
 
 ### 🔗 Inter-Factory Communication
 
